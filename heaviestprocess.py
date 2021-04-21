@@ -4,6 +4,6 @@ from os import system
 from time import sleep
 
 while True:
-    system("bash $HOME/processWarn/heaviestprocess.sh")
+    system("bash heaviestprocess.sh")
     sleep(30)
 

@@ -21,4 +21,4 @@ Make sure that in the .sh script, you have set all the variables at the top:
 - sendxmpp
 - a working xmpp server with atleast 2 accounts(one for the reciever of the messages, one for the script)
 
-
+If you don't know how to set up a xmpp server, or just don't want to, you can check this list for open XMPP servers: https://list.jabber.at/

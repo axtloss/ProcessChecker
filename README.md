@@ -17,8 +17,8 @@ Make sure that in the .sh script, you have set all the variables at the top:
 "cpuWarn" this is the value a process has to pass for the script to alert you (standart value is 100)
 
 # Dependencies
--- python3
--- sendxmpp
--- a working xmpp server with atleast 2 accounts(one for the reciever of the messages, one for the script)
+- python3
+- sendxmpp
+- a working xmpp server with atleast 2 accounts(one for the reciever of the messages, one for the script)
 
 

@@ -5,6 +5,7 @@ Checks for processes in the System and reports by sending a message over xmpp to
 To use this script, you just execute the .py, the py will basically just rerun the script ever 30 seconds, this value can be changed
 
 Make sure that in the .sh script, you have set all the variables at the top:
+
 "reciever" this is the name of the account which you set up for recieving the messages
 
 "xmppAddress" this is the url of the Addres, for example: "myXmpp.com"

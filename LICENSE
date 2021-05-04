@@ -1,25 +1,17 @@
-BSD 2-Clause License
+> the nolicense
+   
+v1.0, fri 30 apr 2021
 
-Copyright (c) 2021, axtloss
-All rights reserved.
+copyright (c) 2021l axtloss
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+everyone is permitted to freely copy and distribute this license document, modification is permitted, as long as the name of the license is also changed
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+the nolicense terms & conditions for copying, distribution and modification
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+- any redistributions in either source code or binary form must retain this copyright notice in its entirety
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+- any and all redistributions must credit the original author of the source code, and provide an easily accessible way to find the original author's source code, wherever it may be published
+
+- any modified redistributions must be published under a different name to the original software, and unless explicitly permitted, the original authors name shall not be used to endorse any derivative works
+
+this software is provided as-is. neither the copyright holders nor any contributors to the software are to be held liable for any damages caused by any of the software/source code attached. research software before you use it

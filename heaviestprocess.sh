@@ -1,5 +1,5 @@
 #!/bin/bash
-#This whole script is probably way to complicated than it needs to be
+#This whole script is probably way too complicated than it needs to be
 reciever="your XMPP name"
 xmppAddress="your XMPP address"
 checker="name this script should use to send you the notification"
